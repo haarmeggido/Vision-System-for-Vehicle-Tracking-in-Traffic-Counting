@@ -1,0 +1,17 @@
+torch
+torchvision
+ultralytics
+lap>=0.5.12
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+opencv-python
+
+fiftyone
+kagglehub
+
+ipykernel

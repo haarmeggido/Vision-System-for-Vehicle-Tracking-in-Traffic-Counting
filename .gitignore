@@ -1,0 +1,14 @@
+
+*.csv
+*.pt
+
+data/*
+runs/*
+.venv/
+
+*.jpg
+*.png
+*.mp4
+
+*__pycache__/
+
