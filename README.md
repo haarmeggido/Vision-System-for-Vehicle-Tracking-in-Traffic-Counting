@@ -20,7 +20,7 @@ The final output is a set of structured vehicle-passage events containing the de
 
 The repository includes the source code, utility scripts, experiment notebooks, and configuration files used to run the developed traffic-counting pipeline.
 
-Large auxiliary files, such as trained model weights, selected datasets, and bulk experiment artifacts, are stored separately and can be downloaded from: **[PLACEHOLDER: add external archive link here]**.
+Large auxiliary files, such as trained model weights, selected datasets, and bulk experiment artifacts, are stored separately and can be downloaded from: https://drive.google.com/drive/folders/1cDZmsxckRprZOdISNckkQrkW9c575v4w?usp=sharing
 
 ## Main Features
 
